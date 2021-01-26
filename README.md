@@ -17,7 +17,7 @@ git clone https://github.com/satcasm/To-Do-List.git
 
 ## Usage
 
-Go into repo's folder and open todos.html. 
+Go into repo's folder and open index.html. 
 Yep that's it :)
 
 ## Contributing
