@@ -1,7 +1,7 @@
 # To-Do-List
 
 This is a super simple to-do list
-where you can add new things to do and
+where you can add new things to do and you can also
 delete it by hovering and hitting a garbage
 can icon.
 
